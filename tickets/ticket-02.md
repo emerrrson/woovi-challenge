@@ -1,3 +1,5 @@
+## Pix Automático trimestral some entre painel e API
+
 ## Entendimento do Problema
 
 O cliente identificou inconsistência entre o painel e a API
@@ -53,3 +55,9 @@ No momento, o backend está rejeitando QUARTERLY, então o comportamento válido
 Vamos validar internamente se a opção "Trimestral" do painel já deveria estar disponível publicamente ou se ainda está em liberação parcial.
 
 Para não bloquear sua integração até sexta, a recomendação no momento é utilizar uma das frequências atualmente aceitas pela API. Assim que eu confirmar o comportamento esperado com o time responsável te atualizo sobre suporte oficial ao QUARTERLY.
+
+## Acompanhemento interno
+
+-validar inconsistência entre frontend, API e documentação.
+-abrir ajuste de documentação ou alinhamento de enum, se necessário.
+-confirmar se existe rollout parcial da funcionalidade.
