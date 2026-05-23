@@ -7,11 +7,11 @@ porém o webhook não chegou para o seu cliente confirmando a transferência, e 
 
 ## Plano de Investigação
 
-# Vericar logs internos dos eventos de webhook
+- Vericar logs internos dos eventos de webhook
 
-# Entender se o webhook foi criado, enviado, se deu erro, qual status retornou e quantas tentativas ocorreram
+- Entender se o webhook foi criado, enviado, se deu erro, qual status retornou e quantas tentativas ocorreram
 
-# Verificar timestamp de geração
+- Verificar timestamp de geração
 
 Isso ajudaria a entender o atraso, ordem dos eventos e delay de fila
 
