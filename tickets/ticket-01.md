@@ -2,7 +2,7 @@
 
 ## Entendimento do Problema
 
-O Cliente está querendo entender o porque a mensagem foi COMPLETED OPENPIX:TRANSACTION_RECEIVED
+O Cliente está querendo entender o porque a mensagem COMPLETED OPENPIX:TRANSACTION_RECEIVED
 porém o webhook não chegou para o seu cliente confirmando a transferência, e está preocupado sobre o fato desse problema escalar.
 
 ## Plano de Investigação
